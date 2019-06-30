@@ -22,8 +22,8 @@ In the classroom, we agree to conduct ourselves in support of the following valu
 
 Value | Description
 --- | ---
-**Equality** | Teachers and students are on the same level. Teachers will approach assume their position in the classroom as facilitators, rather than lecturers or disciplinaries. A good teacher is also a good student. A good student is also a good teacher. Both students and teachers can learn from each other. Every person in the classroom has the opportunity to contribute to discussions and activities. 
-**Genorosity** | TK TK
+**Equality** | Teachers and students are on the same level. Teachers will assume their position in the classroom as facilitators, rather than lecturers or disciplinaries. A good teacher is also a good student. A good student is also a good teacher. Both students and teachers can learn from each other. Every person in the classroom has the opportunity to contribute to discussions and activities. 
+**Generosity** | TK TK
 **Care** | TK TK
 
 ## Schedule
