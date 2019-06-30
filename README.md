@@ -20,17 +20,15 @@ Students will learn
 ## Code of conduct
 In the classroom, we agree to conduct ourselves in support of the following values:
 1. **Equality**
-    * Teachers and students are on the same level. Teachers will approach assume their position in the classroom as facilitators, rather than lecturers or disciplinaries. A good teacher is also a good student. A good student is also a good teacher. Both students and teachers can learn from each other. Every person in the classroom has the opportunity to contribute to discussions and activities. 
+> Teachers and students are on the same level. Teachers will approach assume their position in the classroom as facilitators, rather than lecturers or disciplinaries. A good teacher is also a good student. A good student is also a good teacher. Both students and teachers can learn from each other. Every person in the classroom has the opportunity to contribute to discussions and activities. 
 
 ## Schedule
 
 ### Bug Drawbots
 Activity  | Bug Drawbots
 --- | ---
-Dates | July 30-31
---- | ---
-Activity | Teachers and students will help each other make bug drawbots and talk about the secret life of bugs like ants.
-Materials | 
-* 3 markers per person
-* 1 rubber band per person
-* 1 lump of plasticine, blue tak or silly puddy per person
+**Dates** | July 30-31
+**Description** | Teachers and students will help each other make bug drawbots and talk about the secret life of bugs like ants.
+**Materials** | 3 markers per person 
+1 rubber band per person
+1 lump of plasticine, blue tak or silly puddy per person
