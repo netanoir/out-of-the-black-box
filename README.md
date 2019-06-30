@@ -43,8 +43,8 @@ Value | Description
 **Materials** | TK TK
 **Discussion** | TK TK
 
-### Squishy Circuits
-**Activity** | Squishy Circuits
+### Conductive Self Portraits
+**Activity** | Conductive Self Portraits
 --- | ---
 **Dates** | August 13-14
 **Description** | TK TK
