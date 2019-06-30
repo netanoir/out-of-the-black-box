@@ -25,7 +25,7 @@ In the classroom, we agree to conduct ourselves in support of the following valu
 ## Schedule
 
 ### Bug Drawbots
-Bug Drawbots 
+| Bug Drawbots  |
 --- | ---
 Dates | July 30-31
 --- | ---
