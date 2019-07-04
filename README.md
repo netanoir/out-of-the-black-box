@@ -31,14 +31,18 @@ Value | Description
 ## Activities 
 ### Bug Drawbots
 **Dates**: July 30-31
+
 **Description**: Teachers and students will help each other make bug drawbots and talk about the secret life of bugs like ants.
+
 **Materials**:
 - 3 markers per person
 - 1 rubber band per person
 - 1 lump of plasticine, blue tak or silly puddy per person
+
 **Discussion**: TK TK
 
 -----
+
 ### Squishy Circuits
 **Dates**: August 6-7
 
@@ -60,6 +64,7 @@ insulator | a material or object that doesn't allow electrical current to flow t
 led | stands for "light emitting diode," a semiconductor device that emits visible light when an electric current passes through it
 terminal | a conductive surface that provides an electrical connection point
 
+------
 
 ### Conductive Self Portraits
 **Dates**: August 13-14
@@ -67,10 +72,10 @@ terminal | a conductive surface that provides an electrical connection point
 **Description**: Using conductive paint, teachers and students will each make a self portrait of themselves. Once everyone is done with their portrait, we will connect each portrait together in a chainlink circuit to make up our family/classroom portrait.
 
 **Materials**: 
-- 25~50 sheets of paper
+- 25~50 sheets of colored paper
 - Graphite powder
 - Acrylic paint
 - Paint brushes
 
 **Discussion**: Talk about the importance of family. What we mean when we say family here, is a collective. A group of people who share and maintain space together. Here in this classroom, we set up the class, participated in activities together, looked after each other and this space, and contributed to the group. 
-**Guiding questions**: What does the word family mean to you? Who have you chosen to be a part of your family? How does your family work together? 
+> _Guiding questions_: What does the word family mean to you? Who have you chosen to be a part of your family? How does your family work together? 
