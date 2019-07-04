@@ -53,7 +53,7 @@ Value | Description
 
 **Discussion**: Start the discussion by giving a verbal description of the activity and defining the vocabulary terms. It can be helpful to pass out materials as they are defined to associate the word to the object. Always ask if a student knows what a word means before you define it. If they know the meaning, ask them to explain it to the class.
 
-**Vocabulary**:
+### Vocabulary:
 Word | Definition
 --- | ---
 circuit | the path that electical currents flow; a completed circuit takes the shape of a circle
