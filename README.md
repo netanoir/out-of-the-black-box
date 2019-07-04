@@ -13,7 +13,7 @@ Out of the Black Box (OBB) is a summer workshop series for children aged 7-11 to
 ------
 
 ## Learning objectives
-Facilitators will teach
+Facilitators will teach the basics of
 
 ## Learning outcomes
 Students will learn
@@ -24,8 +24,9 @@ In the classroom, we agree to conduct ourselves in support of the following valu
 Value | Description
 --- | ---
 **Equality** | Teachers and students are on the same level. Teachers will assume their position in the classroom as facilitators, rather than lecturers or disciplinaries. A good teacher is also a good student. A good student is also a good teacher. Both students and teachers can learn from each other. Every person in the classroom has the opportunity to contribute to discussions and activities. 
-**Generosity** | TK TK
+**Generosity** | Sharing is a way to practice equality in the classroom.
 **Care** | TK TK
+**Thoughtfulness** | TK TK
 
 
 ## Activities 
@@ -77,10 +78,11 @@ terminal | a conductive surface that provides an electrical connection point
 - Acrylic paint
 - 1~3 paint brushes (per 2 persons)
 - 1 paint tray (per 3~5 persons)
+- 1 Arduino
 
 **Discussion**: Talk about the importance of family. What we mean when we say family, is a collective. A group of people who share and maintain space together. Here in this classroom, we set up the class, participated in activities together, looked after each other and this space, and contributed to the group. 
 
   Guiding questions:
 - What does the word family mean to you? 
 - Who have you chosen to be a part of your family? 
--How does your family work together? 
+- How does your family work together? 
