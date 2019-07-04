@@ -2,7 +2,6 @@ Out of the Black Box
 ======
 
 **Teachers**: [Neta Bomani](https://netabomani.com), [Bomani Oseni McClendon](http://bomani.xyz/)
-
 **Track**: Out of the Black Box: Computational arts and crafts - [Pioneer Works](https://pioneerworks.org) Summer 2019
 
 **Location**: [Pioneer Books](https://pioneerworks.org/bookstore/), 289 Van Brunt St., Brooklyn, NY 11231
@@ -69,7 +68,7 @@ terminal | a conductive surface that provides an electrical connection point
 ### Conductive Self Portraits
 **Dates**: August 13-14
 
-**Description**: Using conductive paint, teachers and students will each make a portrait of themselves. Once everyone is done with their portrait, we will connect each portrait together in a chainlink circuit to make up our family/classroom portrait.
+**Description**: Using conductive paint, teachers and students will each make a portrait of themselves. Once everyone is done with their portrait, we will connect each portrait together in a chainlink circuit powered by an Arduino to make up our family/classroom portrait.
 
 **Materials**: 
 - 25~50 sheets of colored paper
@@ -78,8 +77,9 @@ terminal | a conductive surface that provides an electrical connection point
 - 1~3 paint brushes (per 2 persons)
 - 1 paint tray (per 3~5 persons)
 
-**Discussion**: Talk about the importance of family. What we mean when we say family here, is a collective. A group of people who share and maintain space together. Here in this classroom, we set up the class, participated in activities together, looked after each other and this space, and contributed to the group. 
-Guiding questions:
+**Discussion**: Talk about the importance of family. What we mean when we say family, is a collective. A group of people who share and maintain space together. Here in this classroom, we set up the class, participated in activities together, looked after each other and this space, and contributed to the group. 
+
+  Guiding questions:
 - What does the word family mean to you? 
 - Who have you chosen to be a part of your family? 
 -How does your family work together? 
