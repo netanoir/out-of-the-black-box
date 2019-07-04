@@ -2,6 +2,7 @@ Out of the Black Box
 ======
 
 **Teachers**: [Neta Bomani](https://netabomani.com), [Bomani Oseni McClendon](http://bomani.xyz/)
+
 **Track**: Out of the Black Box: Computational arts and crafts - [Pioneer Works](https://pioneerworks.org) Summer 2019
 
 **Location**: [Pioneer Books](https://pioneerworks.org/bookstore/), 289 Van Brunt St., Brooklyn, NY 11231
