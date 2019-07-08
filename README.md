@@ -13,10 +13,9 @@ Out of the Black Box (OBB) is a summer workshop series for children aged 7-11 to
 ------
 
 ## Learning objectives
-Facilitators will teach the basics of
-
-## Learning outcomes
-Students will learn
+1) Introducing basic concepts in electronic circuitry (e.g. conductors, insulators, open vs. closed circuits, etc).
+2) Building familiarity with simple electronic components (e.g. LEDs, batteries, wires, etc).
+3) Connecting technical concepts in electronics with social topics such as family, teamwork, and collective thinking.
 
 ## Code of conduct
 In the classroom, we agree to conduct ourselves in support of the following values:
