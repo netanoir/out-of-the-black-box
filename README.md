@@ -85,3 +85,14 @@ terminal | a conductive surface that provides an electrical connection point
 - What does the word family mean to you? 
 - Who have you chosen to be a part of your family? 
 - How does your family work together? 
+
+## Assessment
+Instead of quizzing/testing the students, we will use [formative assessment](https://www.cmu.edu/teaching/assessment/basics/formative-summative.html) strategies to monitor student learning.
+
+### Reflection Exercise
+At the end of each workshop session, students will be asked to take 10 minutes to fill out a paper slip that asks the following questions:
+1) Things I learned
+2) Things I found interesting
+3) Questions I have
+
+Time will be provided before the end of the session to address any questions that students thought of during this reflection period. At the end of the session, teachers will collect the slips and summarize/digitize the content for Pioneer Work's records. If any key areas of missing understanding are identified by the teachers after the session, they will be addressed briefly in a recap period at the beginning of the following session.
