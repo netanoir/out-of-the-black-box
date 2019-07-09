@@ -35,11 +35,13 @@ Value | Description
 **Description**: Teachers and students will help each other make bug drawbots and talk about the secret life of bugs like ants.
 
 **Materials**:
+- 1 [Hexbug](https://www.hexbug.com/hexbug-nano-nitro-five-pack.html) (per person)
+- 1 paper cup (per person)
 - 3 assorted color markers (per person)
 - 1 rubber band (per person)
 - 1 lump of plasticine, blue tak or silly puddy (per person)
 
-**Discussion**: TK TK
+**Discussion**: Begin the discussion with an introduction to each of the materials we'll be using to create Drawbots, including an explanation of what Hexbugs are and how they're made. Draw the connection between Drawbots and social insects such as ants. Through the exercises, show that the procedural drawing tasks (e.g. make a Drawbot that covers as much of the canvas with color as possible) is made much easier through the collaboration of multiple student's Drawbots. 
 
 -----
 
