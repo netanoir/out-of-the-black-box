@@ -27,6 +27,9 @@ Value | Description
 **Care** | TK TK
 **Thoughtfulness** | TK TK
 
+## Full Materials List
+Our running list of materials can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1i8girpC38npQbr35uVzM2uPfElRA97Zh8q0tDGvLhxQ/edit#gid=0).
+
 
 ## Activities 
 ### Bug Drawbots
