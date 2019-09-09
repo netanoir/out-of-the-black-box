@@ -197,7 +197,6 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 1. Show an unlabeled diagram (on the slides) and then ask students to determine what each component does as a class
 
 **Activity: Care Letter Activity**
-How to create care letters:
 1. Fold an 8.5 x 1 1 piece of paper diagonally from the top down to convert the paper into a square
 2. Tear or cut the bottom rectangular piece off. Save it for later to hold your envelope together.
 3. Fold the square into an envelope https://www.wikihow.com/video/3/3f/Fold%20a%20Paper%20Box%20Step%204%20Version%207.360p.mp4
@@ -232,6 +231,5 @@ How to create care letters:
     6. Afrotectopia
     7. Powrplnt
 3. Cleanup & Goodbye
-  3. We'll lead the class in returning the materials to their correct locations and tidying their workspaces. We will wish the participants goodbye and share information on how they can reach out to the teachers if they have further questions.
     
     
