@@ -63,7 +63,7 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 - 1 rubber band (per person)
 - 1 lump of plasticine/blue tak/puddy (per person)
 
-**Schedule:**
+**__Schedule__**
 
 **Introductions (4 mins)**
 1. Introduction to OBB (1 min)
@@ -123,7 +123,7 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 | led           | stands for "light emitting diode," a semiconductor device that emits visible light when an electric current passes through it |
 | terminal      | a conductive surface that provides an electrical connection point                                                             |
 
-**Schedule:**
+**__Schedule__**
 
 **Review previous class (1 min)**
 1. Who remembers what we learned last class?
@@ -159,6 +159,7 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 ----------
 
 **Care letters**
+
 **Description:** Students will create their own envelopes which open up to reveal a message that can be read out loud and spoken into the envelope microphone to share with someone they care about.
 
 **Slides**: https://docs.google.com/presentation/d/1we3Px92GehziSabO5BV0rm7gAjLNtNtr02iWxQDongM/edit?usp=sharing
@@ -170,7 +171,7 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 - Glue
 - Voice recording module
 
-**Schedule**
+**__Schedule__**
 
 **Review previous class (1 min)**
 
