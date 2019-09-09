@@ -48,7 +48,7 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 ----------
 ## Workshops
 
-**Drawbots**
+### **Drawbots**
 
 **Dates**: July 30-31
 
@@ -100,7 +100,7 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 
 ----------
 
-**Squishy Circuits**
+### **Squishy Circuits**
 
 **Dates**: August 6-7
 
@@ -158,7 +158,7 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 
 ----------
 
-**Care letters**
+### **Care letters**
 
 **Description:** Students will create their own envelopes which open up to reveal a message that can be read out loud and spoken into the envelope microphone to share with someone they care about.
 
