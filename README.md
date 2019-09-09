@@ -19,10 +19,16 @@ This workshop series was taught by [Neta Bomani](https://netabomani.com/) and [B
 
 ----------
 ## Learning objectives
+<<<<<<< HEAD
 1. Introduce basic concepts in electronic circuitry (for example, conductors, insulators, open vs. closed circuits, etc.) and electronic components (LEDS, batteries, wires, etc.) and utilize this knowledge to build simple circuits using physical materials.
 2. Emphasize collective participation through the creation of collaborative art pieces in a values-based learning environment focused on encouraging collectivist values.
 3. Spread awareness of the possibilities of electronic circuitry to be used as an artistic medium by exposing students to the work of multimedia artists in the field and providing students with materials to make their own creations during the workshops.
 
+=======
+1) Introducing basic concepts in electronic circuitry (e.g. conductors, insulators, open vs. closed circuits, etc).
+2) Building familiarity with simple electronic components (e.g. LEDs, batteries, wires, etc).
+3) Connecting technical concepts in electronics with social topics such as family, teamwork, and collective thinking.
+>>>>>>> f7ea8563ca135e7bebf7e918e6f03f51a54fa188
 
 ----------
 ## Code of conduct
@@ -48,7 +54,13 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 ----------
 ## Workshops
 
+<<<<<<< HEAD
 **Drawbots**
+=======
+## Full Materials List
+Our running list of materials can be found in [this spreadsheet](https://docs.google.com/spreadsheets/d/1i8girpC38npQbr35uVzM2uPfElRA97Zh8q0tDGvLhxQ/edit#gid=0).
+
+>>>>>>> f7ea8563ca135e7bebf7e918e6f03f51a54fa188
 
 **Dates**: July 30-31
 **Description**: Teachers and students will help each other make robots (drawbots) to help them making drawings.
@@ -56,7 +68,10 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 **Slides**: https://docs.google.com/presentation/d/1eKZ0BGFnlXZpPDFwyxyuDL51_bIXWL5LZBjJvpxSDNo/edit?usp=sharing
 
 **Materials**:
+<<<<<<< HEAD
 
+=======
+>>>>>>> f7ea8563ca135e7bebf7e918e6f03f51a54fa188
 - 1 [Hexbug](https://www.hexbug.com/hexbug-nano-nitro-five-pack.html) (per person)
 - 1 paper cup (per person)
 - 3 assorted color markers (per person)
@@ -80,7 +95,11 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 
 1. Go over each community value and ask a student to volunteer to define each of the terms. Reinforce their definition with the definitions in the chart. Engage students in a discussion about the Miccio summer camp “family matters” theme. 
 
+<<<<<<< HEAD
 **Activity**: **Set up (7 min)**
+=======
+**Discussion**: Begin the discussion with an introduction to each of the materials we'll be using to create Drawbots, including an explanation of what Hexbugs are and how they're made. Draw the connection between Drawbots and social insects such as ants. Through the exercises, show that the procedural drawing tasks (e.g. make a Drawbot that covers as much of the canvas with color as possible) is made much easier through the collaboration of multiple student's Drawbots. 
+>>>>>>> f7ea8563ca135e7bebf7e918e6f03f51a54fa188
 
 1. Before beginning the activity, explain each aspect of the workshop plan to the participants. First, we'll provide an outline for the activity (e.g. "Today, we'll be making simple type of robot called a Drawbot. We'll first create... and then..."). We'll also walk through each of the materials that will be required for the session (showing the individual components as we discuss them).
 2. Tell each student to pick 2-3 markers, 1-2 rubber bands, a cup, tape, and puddy
@@ -232,6 +251,7 @@ How to create care letters:
 
 **Closing (13 min)**
 
+<<<<<<< HEAD
 1. Post-program assessment form 
 1. Students fill out the post-program assessment at this time.
 2. Next Steps
@@ -250,3 +270,20 @@ How to create care letters:
 7. Powrplnt
 3. Cleanup & Goodbye (3 mins)
 - We'll lead the class in returning the materials to their correct locations and tidying their workspaces. We will wish the participants goodbye and share information on how they can reach out to the teachers if they have further questions.
+=======
+  Guiding questions:
+- What does the word family mean to you? 
+- Who have you chosen to be a part of your family? 
+- How does your family work together? 
+
+## Assessment
+Instead of quizzing/testing the students, we will use [formative assessment](https://www.cmu.edu/teaching/assessment/basics/formative-summative.html) strategies to monitor student learning.
+
+### Reflection Exercise
+At the end of each workshop session, students will be asked to take 10 minutes to fill out a paper slip that asks the following questions:
+1) Things I learned
+2) Things I found interesting
+3) Questions I have
+
+Time will be provided before the end of the session to address any questions that students thought of during this reflection period. At the end of the session, teachers will collect the slips and summarize/digitize the content for Pioneer Work's records. If any key areas of missing understanding are identified by the teachers after the session, they will be addressed briefly in a recap period at the beginning of the following session.
+>>>>>>> f7ea8563ca135e7bebf7e918e6f03f51a54fa188
