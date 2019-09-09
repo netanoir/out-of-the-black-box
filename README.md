@@ -218,19 +218,19 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 1. Post-program assessment form 
     1. Students fill out the post-program assessment at this time.
 2. Next Steps
-1. Share resources on where students can learn more about the topics explored in the courses. 
-    1. Pioneer Works
-        1. Regatta Race Day
-        2. Second Sundays
-        3. After School Program at ps15
-    2. YouTube Channels
-        1. funsciencedemos 
-        2. SciShow Kids
-    3. CCFest
-    4. Studio Museum
-    5. Beam Center
-    6. Afrotectopia
-    7. Powrplnt
+    1. Share resources on where students can learn more about the topics explored in the courses. 
+        1. Pioneer Works
+            1. Regatta Race Day
+            2. Second Sundays
+            3. After School Program at ps15
+        2. YouTube Channels
+            1. funsciencedemos 
+            2. SciShow Kids
+        3. CCFest
+        4. Studio Museum
+        5. Beam Center
+        6. Afrotectopia
+        7. Powrplnt
 3. Cleanup & Goodbye
     
     
