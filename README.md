@@ -53,6 +53,7 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 **Drawbots**
 
 **Dates**: July 30-31
+
 **Description**: Teachers and students will help each other make robots (drawbots) to help them making drawings.
 
 **Slides**: https://docs.google.com/presentation/d/1eKZ0BGFnlXZpPDFwyxyuDL51_bIXWL5LZBjJvpxSDNo/edit?usp=sharing
@@ -110,7 +111,9 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 ----------
 
 **Squishy Circuits**
+
 **Dates**: August 6-7
+
 **Description**: Teachers and students will play with conductive play dough to learn the basics of circuits.
 
 **Slides**: https://docs.google.com/presentation/d/1h2vjHdFJGU8GSfwpcc2k-8Lcmwys93Sxd47-Hn59taw/edit?usp=sharing
@@ -201,14 +204,13 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 3. “Does anyone want to explain why this works?”
 4. (Optional) Share more information about how a speaker or microphone works internally. 
 
-**Activity:** **Introduc****e** **the** **v****oice** **r****ecording** **m****odule**
-
+**Activity: Introducing the voice recording module**
 1. The project we’re working on today will also include speakers and microphones, but since we want to include some additional complexity into our circuit that would require a lot of time to build from scratch, we can use a *module* 
 2. Pass out the voice recording modules (don’t remove from plastic yet)
 1. “Today we’ll be using these voice recording modules that allow you to record your voice and play it back”
 2. (Optional) ****Talk about when, why, and how to choose off the shelf components for an electronics project.
 
-**Activity: Identify components on the** **v****oice** **r****ecording** **m****odule**
+**Activity: Identify components on voice recording module**
 
 1. Show an unlabeled diagram (on the slides) and then ask students to determine what each component does as a class
 
