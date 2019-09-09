@@ -64,6 +64,7 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 - 1 lump of plasticine/blue tak/puddy (per person)
 
 **Schedule:**
+
 **Introductions (4 mins)**
 1. Introduction to OBB (1 min)
 1. In our class we will be making computational arts and crafts. Together we will build electronic circuits by making sculptures with conductive clay, paintings with conductive paint and drawings with robots. We will also produce collaborative works with our peers—emphasizing our family values of equality, care, collaboration, compromise, open communication and emotional intelligence, and unity. We hope that each of you will leave these workshops with a basic understanding of electronic circuitry and more exposure to multimedia art making practices.
@@ -123,7 +124,8 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 | terminal      | a conductive surface that provides an electrical connection point                                                             |
 
 **Schedule:**
-**Recap previous class (1 min)**
+
+**Review previous class (1 min)**
 1. Who remembers what we learned last class?
 
 **Presentation: Circuit-based art (5 min)**
@@ -169,7 +171,8 @@ A full itemized list of materials can be found in [this spreadsheet](https://doc
 - Voice recording module
 
 **Schedule**
-**Recap previous class (1 min)**
+
+**Review previous class (1 min)**
 
 1. Who remembers what we learned last class?
 
@@ -229,6 +232,6 @@ How to create care letters:
     6. Afrotectopia
     7. Powrplnt
 3. Cleanup & Goodbye
-    3. We'll lead the class in returning the materials to their correct locations and tidying their workspaces. We will wish the participants goodbye and share information on how they can reach out to the teachers if they have further questions.
+  3. We'll lead the class in returning the materials to their correct locations and tidying their workspaces. We will wish the participants goodbye and share information on how they can reach out to the teachers if they have further questions.
     
     
